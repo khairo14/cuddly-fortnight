@@ -1,47 +1,44 @@
+<img alt="Magic UI - UI Library for Design Engineers" src="https://cdn.magicui.design/bento-grid.gif" width="100%">
+<h3 align="center">Magic UI</h3>
+<p align="center">
+    UI Library for Design Engineers
+</p>
 <div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
+  <a href="https://github.com/magicuidesign/magicui/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/magicuidesign/magicui"></a>
+  <a href="https://twitter.com/magicuidesign"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/magicuidesign"></a>
+  <a href="https://github.com/magicuidesign/magicui/blob/main/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <a href="https://discord.com/invite/87p2vpsat5"><img alt="Discord" src="https://img.shields.io/discord/1151315619246002176"></a>
+  
 </div>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+## Documentation
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+Visit https://magicui.design/docs to view the documentation.
 
-# Features
+## Contributing
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+Visit our [contributing guide](https://github.com/magicuidesign/magicui/blob/main/CONTRIBUTING.md) to learn how to contribute. It only takes ~5 minutes to add your own!
 
-# Getting Started Locally
+## Let's talk
 
-1. Clone this repository to your local machine:
+<a href="https://cal.com/dillionverma/magicui?utm_source=banner&utm_campaign=oss"><img alt="Book us with Cal.com" src="https://cal.com/book-with-cal-dark.svg" /></a>
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+## Authors
 
-2. Move to the cloned directory
+<a href="https://github.com/magicuidesign/magicui/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=magicuidesign/magicui" />
+</a>
 
-   ```bash
-   cd portfolio
-   ```
+## Deploy
 
-3. Install dependencies:
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmagicuidesign%2Fmagicui)
 
-   ```bash
-   pnpm install
-   ```
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kd94U5?referralCode=xaYd2G)
 
-4. Start the local Server:
+## Stats
 
-   ```bash
-   pnpm dev
-   ```
+![Alt](https://repobeats.axiom.co/api/embed/38b63c4514a8a4cd7d1307985af2889c78d67bcc.svg "Repobeats analytics image")
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+## License
 
-# License
-
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/magicuidesign/magicui/blob/main/LICENSE.md).
